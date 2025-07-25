@@ -1,0 +1,2195 @@
+fileFormatVersion: 2
+guid: 194d4f4246b9e8f4fb05074e90dbe5bb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 563
+        width: 134
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7e52a6d861aa544803a1bcc4416fd6
+      internalID: -746600843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_1
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 489
+        width: 109
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d076f011307fdf141b9ff4a6992ab2e8
+      internalID: -946413202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_2
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 508
+        width: 164
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4c08ff2a9a394449ba646f6272cb94
+      internalID: -1158128208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_3
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 664
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d7ebd76d8fb974d88e2b9b4de79f7c
+      internalID: 757637916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_4
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 501
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0def8fe470b1514d8fe8c4ab9acb8b5
+      internalID: 27417242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_5
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 619
+        width: 93
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a967a053ebd3a45ac23b0a59a542df
+      internalID: 1672692268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_6
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 619
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a213e7c876c045847b4299688fc1d2a6
+      internalID: -468571194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_7
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 599
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255fc4787946ad4408c623c2a0549a5f
+      internalID: -671438001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_8
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 602
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155cbff35f32ede49a58e412d1626c66
+      internalID: -14415376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_9
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 602
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0665d8b75e030884a89b2ace11449c8c
+      internalID: 23177310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 563
+        width: 134
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652a25fe908b30a459d7ee2f6019bd63
+      internalID: 1242349152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_11
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 626
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6ed9bba8aed0842bf0d56365282408
+      internalID: -1890973843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_12
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 495
+        width: 160
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370e0b9d4f2994149a653dcd75b37a7c
+      internalID: -1194854463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_13
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 648
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec2f3f091dbaeb47b1547089e6c69da
+      internalID: -712816164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_14
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 641
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26805768dab4c149a3c6920ced6c8b3
+      internalID: 1679513907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_15
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 594
+        width: 78
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb6b0be8292ba640bb503ef0f0ab77a
+      internalID: 591063367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_16
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 567
+        width: 57
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e87d7fdae61c8a4b9af3b55054ee96b
+      internalID: 1511139742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_17
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 620
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8291c68603d3416408651011b03de384
+      internalID: -1453491853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_18
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 605
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4eabf93eb65204fbb41b9b90b27add
+      internalID: -707146559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_19
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 584
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b56fcbafa710340aa360aaa3231c81
+      internalID: -956692575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_20
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 633
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4477192fdad3c94bbe87d2d8eb03069
+      internalID: 1085892030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_21
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 568
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6cb06975688354487b72b70a7da140
+      internalID: -1981085982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_22
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 606
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5318f30fcbd394b4abdd4c96ec818c0e
+      internalID: 913574585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_23
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 480
+        width: 73
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f0296650c63c347b6701da74637db2
+      internalID: -829618425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_24
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 563
+        width: 87
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc00817164224b34d98a52bbc8ac593e
+      internalID: -1764603552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_25
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 559
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb81e7fd76c57db428d5eaae899f269d
+      internalID: -611282026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_26
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 557
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c241bd4a7f27eac40a25dce52231b6df
+      internalID: -1105657599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_27
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 571
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a299487a646bd48880a0573c304527
+      internalID: 1627268765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 272
+        width: 285
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5b02ab47b41614da6a303659ebe88e
+      internalID: -1946060349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_29
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 462
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e2e961f50d4674f93d21f3966bfe47
+      internalID: 188374114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_30
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 463
+        width: 59
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b4104d0d55c054f9888b6f2380d232
+      internalID: -1594885572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_31
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 460
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05b56c41f05af343adaa731ffe2dde9
+      internalID: -664854530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_32
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 458
+        width: 89
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa79a81aa9de60048bba2a6d01b9e3ca
+      internalID: 1820833264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_33
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 458
+        width: 90
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9669e12baf65c45877648ada15acc0
+      internalID: -91674531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_34
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 533
+        width: 95
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c1b9fc689e4ac459db7ae220fc55ad
+      internalID: 1156451887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_35
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 538
+        width: 93
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e6d65a002dc1f41a3f644e6499b764
+      internalID: 1997365812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_36
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 551
+        width: 84
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae4ca073babf4b4688082c838ee3691
+      internalID: 592742298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_37
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 478
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb271cc1b41b2943a2019dbbd6dbebe
+      internalID: 865515316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_38
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 513
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a643cf829fb8f74d9a35e3f67de6c0b
+      internalID: 1508600372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_39
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 531
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f630b81a424c3d34da8475c7e90b9769
+      internalID: -342540448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_40
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 473
+        width: 95
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5000845037313a44b376faf250f223e
+      internalID: 331130181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_41
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 477
+        width: 92
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1374d1ba619c10749aa2f8e92f25fc15
+      internalID: 573441788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_42
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 496
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd9d98ce51ff9e4bb961bb952f07468
+      internalID: 814097507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_43
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 463
+        width: 99
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94822b2d9610adb44a8c509961b1e776
+      internalID: -72763010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_44
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 524
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e06976dda4697845b32adfc0d652100
+      internalID: -1838026471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_45
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 426
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d754828cc007fa844821e66ed6883f07
+      internalID: 2074300476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_46
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 307
+        width: 145
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f3ccf15b8271a43b21afe5b214c4b6
+      internalID: 2092442226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_47
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 345
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4561f75c97f7e6049b40ff5f8db48851
+      internalID: -1316476552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_48
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 357
+        width: 146
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e277974ff6188ce458aeb63fa57d5da5
+      internalID: -480466118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_49
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 334
+        width: 124
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de352ee0d93e306468e1c57ea9a09f7a
+      internalID: -1186568960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_50
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 339
+        width: 90
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd7c4f95c43be6488f14106426cfbd3
+      internalID: 570874245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_51
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 392
+        width: 131
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87ef9aa80e1ff34fa1c4f74b9477919
+      internalID: 1878957492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_52
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 465
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1616b18bd063fe244889b495f5c65511
+      internalID: -1461077941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_53
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 453
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d373dfbb22a94a14aae1a1b2ab548492
+      internalID: -584371093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_54
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 307
+        width: 162
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2a3a77b84f6e649bf1c5017f6e9ea5
+      internalID: 1257265627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_55
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 334
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0634d3ebeaff4374d98925fe1f6d03d4
+      internalID: -1075634402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_56
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 334
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee474f72198d90f4e873d4a1aa2a19b6
+      internalID: -1833496069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_57
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 334
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21373fe1216d2bc45b9c93b3597a7cd4
+      internalID: -611346084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_58
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 334
+        width: 67
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf5affde3567f74dbe15326df6cdcfa
+      internalID: 724873031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_59
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 339
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420752bff2b377446b09ccba369cf906
+      internalID: 1541457942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_60
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 404
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b3322ee4ff10b458aec80093849eda
+      internalID: 1515137278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_61
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 392
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef30a218249f56841974b4de3ee339c4
+      internalID: 1473162082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_62
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 375
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e65354836a16e24d8f4f3d3b0cd0418
+      internalID: -143404722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_63
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 226
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa7ab9d277785a4e9bd18b2d8a4adf4
+      internalID: -242803602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_64
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 351
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0098884b8911fe84584e1a172da3e6ac
+      internalID: 812582731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_65
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 345
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e243d54c8bb77c44abe99d9ae4c22867
+      internalID: 290812402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_66
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 348
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a6b178a6770974fbaadda3fc70f603
+      internalID: -498451210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_67
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 311
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bd1b5ab0d7e74499c186fc63f0816f
+      internalID: -717536402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_68
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 186
+        width: 223
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f13e97c5b1e8084b8ed6e0067b60ad3
+      internalID: 2012641727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_69
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 186
+        width: 118
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb429c96f3250784ba0f56891cd4b02e
+      internalID: -1197080617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_70
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 172
+        width: 145
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cc08c1ac7b9d34ba713448eaabb1fb
+      internalID: -943085604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_71
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 163
+        width: 173
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdc65002850fb1419205b323ebc45b3
+      internalID: -1272500387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_72
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 165
+        width: 169
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffa42a00e091e74d8404b3b5a49ada3
+      internalID: -466387745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_73
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 168
+        width: 169
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2801d14667e85e459fdec47e08777f0
+      internalID: -838186128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_74
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 168
+        width: 166
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0091c8cb92153c4dbfd8cef40f3b3c6
+      internalID: -1443640864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_75
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 173
+        width: 168
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47978308377efb7479aa5bdbca9c4c5e
+      internalID: -438229216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_76
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 175
+        width: 74
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6463aa8c5e6c745a3156c539d3e309
+      internalID: 1433586270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_77
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 206
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb03b2d61bec1594ea616d33ab0cfe64
+      internalID: 792497438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_78
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 2
+        width: 115
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696e09b1c429bbe42bfe51aad64add2e
+      internalID: -5413035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_79
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2
+        width: 260
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e13eb81d1b16040bde6cf0ae971882
+      internalID: -1295148128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_80
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 164
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83eb0bc4d75e6ee4c9abf28bc54d96de
+      internalID: 464909189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_81
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 173
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f84770c8ba6e6a42a5b1a2d6210f971
+      internalID: -335437330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_82
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 2
+        width: 208
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5797dcc1e8beb41b1736f75acdccc1
+      internalID: -1601343508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_83
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 119
+        width: 75
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e7cf3d30456f34dbd095a5f01d9745
+      internalID: -1221199798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_84
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 2
+        width: 209
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c436f78e515254daf775242172ee58
+      internalID: 314174353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_85
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 125
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ebb1a0a33877c4b9796b93d57bf4ce
+      internalID: -1678625973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_86
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 2
+        width: 202
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e91cf5457bb8a469193fd57c1f843a
+      internalID: -1239682369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_87
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 22
+        width: 202
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e9c3bc3afb64741850268b7057209a
+      internalID: 846830932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_88
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 24
+        width: 92
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f65f893e869934692423f3e59993b2
+      internalID: -806499847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_89
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 2
+        width: 94
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8004ac3032100664395788c9accb8789
+      internalID: -842178074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_90
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 9
+        width: 86
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888458ec350dcf94aa4656dcb652b1b5
+      internalID: -954442822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_91
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 136
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631047fedb538554582647b51b89d5ce
+      internalID: -564271349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_92
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 2
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61bfbdff242e9f4f85b551098583b8f
+      internalID: 998625771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_galagxiga_v2_93
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 2
+        width: 92
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2c81d7e432b10459aacf464623e5e6
+      internalID: 231475222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      boss_galagxiga_v2_0: -746600843
+      boss_galagxiga_v2_1: -946413202
+      boss_galagxiga_v2_10: 1242349152
+      boss_galagxiga_v2_11: -1890973843
+      boss_galagxiga_v2_12: -1194854463
+      boss_galagxiga_v2_13: -712816164
+      boss_galagxiga_v2_14: 1679513907
+      boss_galagxiga_v2_15: 591063367
+      boss_galagxiga_v2_16: 1511139742
+      boss_galagxiga_v2_17: -1453491853
+      boss_galagxiga_v2_18: -707146559
+      boss_galagxiga_v2_19: -956692575
+      boss_galagxiga_v2_2: -1158128208
+      boss_galagxiga_v2_20: 1085892030
+      boss_galagxiga_v2_21: -1981085982
+      boss_galagxiga_v2_22: 913574585
+      boss_galagxiga_v2_23: -829618425
+      boss_galagxiga_v2_24: -1764603552
+      boss_galagxiga_v2_25: -611282026
+      boss_galagxiga_v2_26: -1105657599
+      boss_galagxiga_v2_27: 1627268765
+      boss_galagxiga_v2_28: -1946060349
+      boss_galagxiga_v2_29: 188374114
+      boss_galagxiga_v2_3: 757637916
+      boss_galagxiga_v2_30: -1594885572
+      boss_galagxiga_v2_31: -664854530
+      boss_galagxiga_v2_32: 1820833264
+      boss_galagxiga_v2_33: -91674531
+      boss_galagxiga_v2_34: 1156451887
+      boss_galagxiga_v2_35: 1997365812
+      boss_galagxiga_v2_36: 592742298
+      boss_galagxiga_v2_37: 865515316
+      boss_galagxiga_v2_38: 1508600372
+      boss_galagxiga_v2_39: -342540448
+      boss_galagxiga_v2_4: 27417242
+      boss_galagxiga_v2_40: 331130181
+      boss_galagxiga_v2_41: 573441788
+      boss_galagxiga_v2_42: 814097507
+      boss_galagxiga_v2_43: -72763010
+      boss_galagxiga_v2_44: -1838026471
+      boss_galagxiga_v2_45: 2074300476
+      boss_galagxiga_v2_46: 2092442226
+      boss_galagxiga_v2_47: -1316476552
+      boss_galagxiga_v2_48: -480466118
+      boss_galagxiga_v2_49: -1186568960
+      boss_galagxiga_v2_5: 1672692268
+      boss_galagxiga_v2_50: 570874245
+      boss_galagxiga_v2_51: 1878957492
+      boss_galagxiga_v2_52: -1461077941
+      boss_galagxiga_v2_53: -584371093
+      boss_galagxiga_v2_54: 1257265627
+      boss_galagxiga_v2_55: -1075634402
+      boss_galagxiga_v2_56: -1833496069
+      boss_galagxiga_v2_57: -611346084
+      boss_galagxiga_v2_58: 724873031
+      boss_galagxiga_v2_59: 1541457942
+      boss_galagxiga_v2_6: -468571194
+      boss_galagxiga_v2_60: 1515137278
+      boss_galagxiga_v2_61: 1473162082
+      boss_galagxiga_v2_62: -143404722
+      boss_galagxiga_v2_63: -242803602
+      boss_galagxiga_v2_64: 812582731
+      boss_galagxiga_v2_65: 290812402
+      boss_galagxiga_v2_66: -498451210
+      boss_galagxiga_v2_67: -717536402
+      boss_galagxiga_v2_68: 2012641727
+      boss_galagxiga_v2_69: -1197080617
+      boss_galagxiga_v2_7: -671438001
+      boss_galagxiga_v2_70: -943085604
+      boss_galagxiga_v2_71: -1272500387
+      boss_galagxiga_v2_72: -466387745
+      boss_galagxiga_v2_73: -838186128
+      boss_galagxiga_v2_74: -1443640864
+      boss_galagxiga_v2_75: -438229216
+      boss_galagxiga_v2_76: 1433586270
+      boss_galagxiga_v2_77: 792497438
+      boss_galagxiga_v2_78: -5413035
+      boss_galagxiga_v2_79: -1295148128
+      boss_galagxiga_v2_8: -14415376
+      boss_galagxiga_v2_80: 464909189
+      boss_galagxiga_v2_81: -335437330
+      boss_galagxiga_v2_82: -1601343508
+      boss_galagxiga_v2_83: -1221199798
+      boss_galagxiga_v2_84: 314174353
+      boss_galagxiga_v2_85: -1678625973
+      boss_galagxiga_v2_86: -1239682369
+      boss_galagxiga_v2_87: 846830932
+      boss_galagxiga_v2_88: -806499847
+      boss_galagxiga_v2_89: -842178074
+      boss_galagxiga_v2_9: 23177310
+      boss_galagxiga_v2_90: -954442822
+      boss_galagxiga_v2_91: -564271349
+      boss_galagxiga_v2_92: 998625771
+      boss_galagxiga_v2_93: 231475222
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

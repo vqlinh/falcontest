@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cbdbf48cc92ea2438b84f2bd16e7294, type: 3}
+  m_Name: NewWave
+  m_EditorClassIdentifier: 
+  botsInWave:
+  - prefab: {fileID: 1609718704203071081, guid: 6271c95fe64b9654a8f79649b80019fc, type: 3}
+    gridPosition: {x: -4, y: 4}
+    offset: {x: -0.3, y: 0}
+  - prefab: {fileID: 1609718704203071081, guid: 6271c95fe64b9654a8f79649b80019fc, type: 3}
+    gridPosition: {x: -3, y: 3}
+    offset: {x: -0.3, y: 0}
+  - prefab: {fileID: 1609718704203071081, guid: 6271c95fe64b9654a8f79649b80019fc, type: 3}
+    gridPosition: {x: -2, y: 2}
+    offset: {x: -0.3, y: 0}
+  - prefab: {fileID: 1609718704203071081, guid: 6271c95fe64b9654a8f79649b80019fc, type: 3}
+    gridPosition: {x: -1, y: 1}
+    offset: {x: -0.3, y: 0}
+  - prefab: {fileID: 1609718704203071081, guid: 6271c95fe64b9654a8f79649b80019fc, type: 3}
+    gridPosition: {x: 1, y: 1}
+    offset: {x: 0.3, y: 0}
+  - prefab: {fileID: 1609718704203071081, guid: 6271c95fe64b9654a8f79649b80019fc, type: 3}
+    gridPosition: {x: 2, y: 2}
+    offset: {x: 0.3, y: 0}
+  - prefab: {fileID: 1609718704203071081, guid: 6271c95fe64b9654a8f79649b80019fc, type: 3}
+    gridPosition: {x: 3, y: 3}
+    offset: {x: 0.3, y: 0}
+  - prefab: {fileID: 1609718704203071081, guid: 6271c95fe64b9654a8f79649b80019fc, type: 3}
+    gridPosition: {x: 4, y: 4}
+    offset: {x: 0.3, y: 0}
